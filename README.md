@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-!(https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e47vol9dw96zc3xm6x3v5ecb128i25evw3oodtknrax&rid=giphy.gif&ct=g)
+![coding](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e47vol9dw96zc3xm6x3v5ecb128i25evw3oodtknrax&rid=giphy.gif&ct=g)
 
 <!--
 **jamesrupa/jamesrupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
