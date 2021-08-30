@@ -1,5 +1,3 @@
-### Hello World! 👋
-
 ![coding](https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=ecf05e47vol9dw96zc3xm6x3v5ecb128i25evw3oodtknrax&rid=giphy.gif&ct=g)
 
 <!--
